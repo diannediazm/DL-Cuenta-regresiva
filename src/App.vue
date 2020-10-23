@@ -10,7 +10,7 @@ import Cuenta from './components/Cuenta.vue'
 export default {
   name: 'App',
   components: {
-    HCuenta
+    Cuenta
   }
 }
 </script>
